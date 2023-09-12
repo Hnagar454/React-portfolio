@@ -1,0 +1,39 @@
+*{
+
+background-color: white;
+}
+
+
+
+
+.headnav {
+    margin-left: 30px;
+}
+
+
+.home{
+    height: 300px;
+    display: flex;
+    padding: 100px
+
+
+}
+
+
+.home .R-div {
+    margin-left: 30px;
+    margin-top: 70px;
+}
+
+.R-div p{
+    color: gray;
+}
+
+.home .l-div {
+padding-left: 200px;}
+
+
+.home .R-div button{
+    margin: 10px;
+    border-radius: 12px;
+}

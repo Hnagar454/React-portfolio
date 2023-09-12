@@ -1,0 +1,18 @@
+HTML
+CSS
+CSS5
+bootstrap
+Java Script
+ReactJS 
+	Redux
+	Tailwind CSS
+	Context api
+	Axios
+	usestate 
+	useeffext 
+	
+MongoDB
+Express 
+Nodejs 
+
+
