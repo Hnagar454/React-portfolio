@@ -10,6 +10,10 @@ background-color: white;
     margin-left: 30px;
 }
 
+.heading1{
+    color: blue; 
+       
+}
 
 .home{
     height: 300px;
@@ -30,10 +34,41 @@ background-color: white;
 }
 
 .home .l-div {
-padding-left: 200px;}
+padding-left: 200px;
+}
 
 
 .home .R-div button{
     margin: 10px;
     border-radius: 12px;
+}
+
+
+.skills{
+    height: 600px;
+
+    display: flex;
+}
+
+.skills > div {
+    
+    width: 100%;
+}
+
+
+.leftskill{
+    margin-left: 50px;
+}
+
+.rightskill{
+    margin-left: 10px;
+    margin-top: 60px;
+    justify-content: center;
+}
+
+.rightskill > h4, p
+
+{
+    
+    color: gray;
 }

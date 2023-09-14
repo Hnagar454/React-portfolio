@@ -3,15 +3,16 @@ import ReactDOM from 'react-dom/client';
 import reportWebVitals from './reportWebVitals';
 import 'bootstrap/dist/css/bootstrap.min.css'
 import 'bootstrap/dist/js/bootstrap.bundle.js'
+import Skill from './Components/Skill';
 import Navbar from './Components/Navbar';
 import Home from './Components/Home';
+
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
- <Navbar>
- </Navbar>
- <Home></Home>
+
+<Skill/>
   </React.StrictMode>
 );
 
