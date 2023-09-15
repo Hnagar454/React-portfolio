@@ -11,7 +11,8 @@ background-color: white;
 }
 
 .heading1{
-    color: blue; 
+    color: blue;
+    font-size: 50px; 
        
 }
 
@@ -58,11 +59,12 @@ padding-left: 200px;
 
 .leftskill{
     margin-left: 50px;
+    margin-top: 220px;
 }
 
 .rightskill{
     margin-left: 10px;
-    margin-top: 60px;
+    margin-top: 350px;
     justify-content: center;
 }
 
@@ -71,4 +73,23 @@ padding-left: 200px;
 {
     
     color: gray;
+}
+
+.icon{
+    display: flex;
+    
+}
+
+.icon h1 {
+
+    margin-left: 20px;
+    font-size: 60px;
+    color: grey;
+
+}
+
+.icon h1:hover {
+
+color: orange;
+
 }
