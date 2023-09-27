@@ -93,3 +93,25 @@ padding-left: 200px;
 color: orange;
 
 }
+
+.profi{
+    display: flex;
+    margin-top: 200px;
+    height: 600px;
+    width: 100%;
+}
+
+.rightpro{
+margin-left: 100px;
+margin-top: 110px;
+    flex: 1;
+}
+
+.leftpro{
+    margin-left: 10px;
+    justify-content: center;
+}
+
+.prograsb{
+    width: 80%;
+}
