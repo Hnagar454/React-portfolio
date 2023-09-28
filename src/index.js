@@ -7,6 +7,8 @@ import Skill from './Components/Skill';
 import Navbar from './Components/Navbar';
 import Home from './Components/Home';
 import Proficiancy from './Components/Proficiancy';
+import Education from './Components/Education';
+import Experience from './Components/Experience'
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
@@ -16,6 +18,8 @@ root.render(
 <Home />
 <Skill />
 <Proficiancy />
+<Education/>
+<Experience />
   </React.StrictMode>
 );
 
