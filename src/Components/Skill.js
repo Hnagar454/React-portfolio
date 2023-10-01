@@ -25,7 +25,7 @@ return(
 
 <div className="rightskill">
 
-<h3>What I do .</h3> 
+<h1>What I do .</h1> 
 <p>CRAZY FRONTEND DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK</p>
 <h4>⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications</h4>
 <div className="icon">

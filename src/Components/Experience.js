@@ -10,11 +10,11 @@ export default function Experience() {
 
             <div className="Excard d-flex">
 
-            <div className="card" >
+            <div className="card shadow-lg  bg-white" >
                     <div className="carddown">
                         <h1> Code Soft </h1>
                     </div>
-                    <div class="card-body">
+                    <div class="card-body ">
                         <p className="card-text">
                             <h4>Front-End Developer(internship)</h4>
                             <h4> Aug 2023 – Sep 2023</h4>
@@ -35,7 +35,7 @@ export default function Experience() {
                     </div>
                 </div>
 
-                <div className="card" >
+                <div className="card shadow-lg bg-white rounded-top" >
                     <div className="carddown">
                         <h1> Oasis infotech</h1>
                     </div>
@@ -59,7 +59,7 @@ export default function Experience() {
 
                     </div>
                 </div>
-                <div className="card" >
+                <div className="card shadow-lg  bg-white" >
                     <div className="carddown">
                         <h1>  The spark Foundation </h1>
                     </div>

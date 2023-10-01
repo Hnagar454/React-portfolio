@@ -1,6 +1,7 @@
 *{
 
 background-color: white;
+box-sizing: border-box;
 }
 
 
@@ -28,6 +29,7 @@ background-color: white;
 .home .R-div {
     margin-left: 30px;
     margin-top: 70px;
+    font-size: 110px;
 }
 
 .R-div p{
@@ -137,8 +139,7 @@ margin-top: 110px;
 .card{
     width:  45rem;
     text-align: center;
-    margin-left: 50px;
-    margin-top: 50px;
+    margin-left: 40px;
 }
 
 .Excard{
@@ -155,4 +156,9 @@ margin-top: 110px;
     background-color: #691708;
     color: white;
     margin-top: 80px;
+}
+
+.card
+{
+    border-radius: 10px;
 }
