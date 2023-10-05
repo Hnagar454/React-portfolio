@@ -15,7 +15,7 @@ return(
 <Player
           autoplay
           loop
-          src="https://lottie.host/53a6d9ca-674b-4002-bd79-f56f7f1678c4/1x87mwah3h.json"
+          src="https://lottie.host/d210f4ec-1311-4a55-98c9-8f4d50dde60f/MVpaD4KfHC.json"
           style={{ height: '600px', width: '600px' }}
         >
           <Controls visible={false} buttons={['play', 'repeat', 'frame', 'debug']} />

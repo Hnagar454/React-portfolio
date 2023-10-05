@@ -14,6 +14,9 @@ export default function Education(){
         <h5> Bacholer's of Computer Application </h5>
         <p> Apr 2016 - April 2019  </p>
     </div>
+
+    <hr class="solid" />
+
     <div className="educat2">
 
     <h5> Indian public Inter College </h5>
@@ -23,6 +26,9 @@ export default function Education(){
     </div>
     
     
+    
+    <hr class="solid" />
+
     
     
     

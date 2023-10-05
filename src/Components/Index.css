@@ -1,8 +1,12 @@
+
+
+
 *{
 
 background-color: white;
 box-sizing: border-box;
 }
+
 
 
 
@@ -29,12 +33,17 @@ box-sizing: border-box;
 .home .R-div {
     margin-left: 30px;
     margin-top: 70px;
-    font-size: 110px;
+    
 }
+
 
 .R-div p{
     color: gray;
+    size: 50px;
 }
+
+
+ 
 
 .home .l-div {
 padding-left: 200px;
@@ -45,6 +54,47 @@ padding-left: 200px;
     margin: 10px;
     border-radius: 12px;
 }
+
+button {
+    border-radius: 4px;
+    background-color: #5ca1e1;
+    border: none;
+    color: #fff;
+    text-align: center;
+    font-size: 32px;
+    padding: 16px;
+    width: 250px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 36px;
+    box-shadow: 0 10px 20px -8px rgba(0, 0, 0,.7);
+  }
+  
+  button{
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+  }
+  
+  button:after {
+    content: '»';
+    position: absolute;
+    opacity: 0;  
+    top: 14px;
+    right: -20px;
+    transition: 0.5s;
+  }
+  
+  button:hover{
+    padding-right: 24px;
+    padding-left:8px;
+  }
+  
+  button:hover:after {
+    opacity: 1;
+    right: 10px;
+  }
 
 
 .skills{
@@ -60,8 +110,8 @@ padding-left: 200px;
 
 
 .leftskill{
-    margin-left: 50px;
     margin-top: 220px;
+    margin-left: -50px;
 }
 
 .rightskill{
@@ -91,8 +141,8 @@ padding-left: 200px;
 }
 
 .icon h1:hover {
-
-color: orange;
+    color: orange;
+    transition: color .5s;
 
 }
 
@@ -115,8 +165,13 @@ margin-top: 110px;
 }
 
 .prograsb{
-    width: 80%;
+    width: 74%;
 }
+
+.prograsb:hover{
+    width: 95%;
+     transition: width 5.s;
+      }
 
 .Educat {
     
@@ -125,9 +180,21 @@ margin-top: 110px;
 
 }
 
-.educat2{
-    margin-top: 80px;
+hr.solid {
+    border: 3px solid grey;
+    width: 80%;
     margin-left: 50px;
+  }
+
+  hr.solid:hover{
+width: 95%;
+ border: 3px solid#0087ca;
+ transition: width 2s;
+  }
+
+.educat2{
+    margin-top: 40px;
+    margin-left: 50px;;
     
 }
 

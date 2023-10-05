@@ -15,27 +15,27 @@ function proficiancy() {
         <h4>HTML</h4>
         <div className="progress">
 
-  <div className="progress-bar prograsb" role="progressbar"  aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+  <div className="progress-bar prograsb" role="progressbar"  aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
 </div>
 <h4>CSS</h4>
         <div className="progress">
 
-  <div className="progress-bar prograsb" role="progressbar"  aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+  <div className="progress-bar prograsb"     role="progressbar"  aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
 </div>
 <h4>JavaScript</h4>
         <div className="progress">
 
-  <div className="progress-bar prograsb" role="progressbar"  aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+  <div className="progress-bar prograsb" role="progressbar"  aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
 </div>
 <h4>React JS </h4>
         <div className="progress">
 
-  <div className="progress-bar prograsb" role="progressbar"  aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+  <div className="progress-bar prograsb" role="progressbar"  aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
 </div>
 <h4>Bootstrap</h4>
         <div className="progress">
 
-  <div className="progress-bar prograsb" role="progressbar"  aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+  <div className="progress-bar prograsb" role="progressbar"  aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
 </div>
             </div>
 

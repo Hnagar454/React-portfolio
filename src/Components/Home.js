@@ -7,14 +7,14 @@ import { Player, Controls } from '@lottiefiles/react-lottie-player';
     <div className="home">
 
       <div className="R-div">
-        <h1>Hi,I'm Himanshu Nagar 👋</h1>
-        <p><h3>A passionate Frontend Developer 🚀 having an experience of  </h3></p>
-        <p><h4>building Web with JavaScript / Reactjs / and some other</h4></p>
+        <h1>Hi,I'm Himanshu Nagar </h1>
+        <p><h2>A passionate Frontend Developer 🚀 having an experience of  </h2></p>
+        <p><h2>building Web with JavaScript / Reactjs / and some other</h2></p>
 
         <a href="./files/Roadmap.txt" download="Resume">
-          <button className="btn btn-primary">Download CV</button>
+          <button className=" button">Download CV</button>
         </a>
-        <button className="btn btn-primary">Contact Me </button>
+        <button className=" button">Contact Me </button>
 
       </div>
       <div className="l-div">
