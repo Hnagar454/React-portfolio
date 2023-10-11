@@ -10,6 +10,7 @@ import Proficiancy from './Components/Proficiancy';
 import Education from './Components/Education';
 import Experience from './Components/Experience'
 import Footer from './Components/Footer';
+import { BrowserRouter, Route, Router } from 'react-router-dom';
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
@@ -22,6 +23,9 @@ root.render(
 <Education/>
 <Experience />
 <Footer />
+
+
+
   </React.StrictMode>
 );
 

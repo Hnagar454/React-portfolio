@@ -16,10 +16,10 @@ function Navbar(){
       </li>
      
       <li className="nav-item h3 m-2">
-        <a className="nav-link " href="#">Skills</a>
+        <a className="nav-link"  href="skill.js">Skills</a>
       </li>
       <li className="nav-item h3 m-2">
-        <a className="nav-link " href="#Experience">Experience</a>
+        <a className="nav-link " href="Experience">Experience</a>
       </li>
       <li className="nav-item h3 m-2">
         <a className="nav-link " href="#">Achievement</a>
@@ -28,7 +28,7 @@ function Navbar(){
         <a className="nav-link " href="#">Hire me</a>
       </li>
       <li className="nav-item h3 m-2">
-        <a className="nav-link " href="#">Contact Me</a>
+        <a className="nav-link "  id="Contact" href="#">Contact Me</a>
       </li>
     </ul>
     

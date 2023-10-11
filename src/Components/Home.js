@@ -1,6 +1,7 @@
 import React from "react";
 import { Player, Controls } from '@lottiefiles/react-lottie-player';
 
+
  function Home() {
   return (
 <>
@@ -11,7 +12,7 @@ import { Player, Controls } from '@lottiefiles/react-lottie-player';
         <p><h2>A passionate Frontend Developer 🚀 having an experience of  </h2></p>
         <p><h2>building Web with JavaScript / Reactjs / and some other</h2></p>
 
-        <a href="./files/Roadmap.txt" download="Resume">
+        <a href={require("../Components/Files/Himanshu.pdf")} download="HimanshuNagar-Frontend">
           <button className=" button">Download CV</button>
         </a>
         <button className=" button">Contact Me </button>

@@ -229,3 +229,21 @@ width: 95%;
 {
     border-radius: 10px;
 }
+
+.footer-heading{
+    text-align: center;
+}
+
+.foot{
+    text-align: center;
+    margin-top: 50px;
+    font-weight: lighter;
+    ;
+    
+}
+
+.foot h2 {
+    margin-top: 30px;
+    color: grey;
+    font-weight: normal;
+}
