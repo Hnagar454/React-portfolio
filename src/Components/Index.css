@@ -235,15 +235,47 @@ width: 95%;
 }
 
 .foot{
-    text-align: center;
+  justify-content: center;
     margin-top: 50px;
     font-weight: lighter;
+    display: flex
     ;
     
 }
 
-.foot h2 {
-    margin-top: 30px;
+.foot h1 {
+    margin-top: 35px;
+    color: black;
+    size: 80px;
+    justify-content: center;
+}
+
+
+
+.footh1 h2 {
+
+   color: grey;
+   margin: 30px;
+   font-weight: lighter;
+   
+
+}
+
+.footicon{
+    margin-left: 38%;
+}
+
+.footicon h1 {
+    display: inline;
+    justify-content: center;
+    font-size: 60px;
+    margin-left: 20px;
     color: grey;
-    font-weight: normal;
+
+}
+
+.footicon h1:hover {
+    color: orange;
+    transition: color .5s;
+
 }
