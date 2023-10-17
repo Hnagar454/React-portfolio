@@ -40,11 +40,9 @@ export default function Footer(){
 <h1><AiOutlineMail/></h1>
 </div>
 
-<div className="foot"></div>
 
-           
 <div className="foot">
-<h1 style={{textAlign:"center"}}>Made ❤️ by Himanshu Nagar</h1> 
+<h1 style={{textAlign:"center"}}>Made  with ❤️ by Himanshu Nagar</h1> 
 </div>
 
         </div>
